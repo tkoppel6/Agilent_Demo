@@ -1,0 +1,14 @@
+HANA spacial engine
+https://help.sap.com/viewer/cbbbfc20871e4559abfd45a78ad58c02/2.0.04/en-US/e1c934157bd14021a3b43b5822b2cbe9.html
+
+MTA parameters and syntax (memory & ports)
+https://help.sap.com/viewer/4505d0bdaf4948449b7f7379d24d0f0d/2.0.04/en-US/4050fee4c469498ebc31b10f2ae15ff2.html
+
+Data anonymization
+https://help.sap.com/viewer/b3ee5778bc2e4a089d3299b82ec762a7/2.0.03/en-US/0d578c30d6d448898898967fb3ef2516.html
+
+HANA XSA SHINE
+https://github.com/SAP/hana-shine-xsa
+
+CLI Reference
+https://help.sap.com/viewer/1ed1948fa0664e138c088dcc61e267e0/2.0.04/en-US/d383445ada19411595dd244486b3f4fc.html
